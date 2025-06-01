@@ -1,0 +1,6 @@
+- `T 메모리 구조`: 자바 실행 시 메모리 영역 구조
+- `java.lang 패키지`: 자바의 기본 패키지 (자동 import됨)
+- `import`: 다른 패키지의 클래스를 불러올 때 사용
+- `메소드 스택 프레임`: 메소드 호출 시 스택에 저장되는 실행 정보
+- `JVM (Java Virtual Machine)`: 자바 바이트코드를 실행하는 가상 머신
+- `JRE (Java Runtime Environment)`: JVM + 라이브러리의 실행 환경
