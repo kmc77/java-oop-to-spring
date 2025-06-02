@@ -21,7 +21,6 @@
 - [ ] 변수와 메모리: 변수! 너 어디 있니?
 - [ ] 블록 구문과 메모리: 블록 스택 프레임
 - [ ] 지역 변수와 메모리: 스택 프레임에 갇혔어요!
-- [학습 노트](./ch02/README.md)
 
 ### 3장. 자바와 객체 지향
 - [ ] 객체 지향의 4대 특성
@@ -30,7 +29,6 @@
 - [ ] 상속
 - [ ] 다형성
 - [ ] 캡슐화
-- [학습 노트](./ch03/README.md)
 
 ### 4장. 자바가 확장한 객체 지향
 - [ ] abstract 키워드
@@ -39,7 +37,6 @@
 - [ ] final 키워드
 - [ ] instanceof 연산자
 - [ ] package 키워드
-- [학습 노트](./ch04/README.md)
 
 ### 5장. 객체 지향 설계 5원칙 - SOLID
 - [ ] SRP (Single Responsibility Principle) - 단일 책임 원칙
@@ -47,7 +44,6 @@
 - [ ] LSP (Liskov Substitution Principle) - 리스코프 치환 원칙
 - [ ] ISP (Interface Segregation Principle) - 인터페이스 분리 원칙
 - [ ] DIP (Dependency Inversion Principle) - 의존 역전 원칙
-- [학습 노트](./ch05/README.md)
 
 ### 6장. 스프링이 사랑한 디자인 패턴
 - [ ] 어댑터 패턴
@@ -58,10 +54,8 @@
 - [ ] 팩토리 메서드 패턴
 - [ ] 전략 패턴
 - [ ] 템플릿 콜백 패턴
-- [학습 노트](./ch06/README.md)
 
 ### 7장. 스프링 삼각형과 설정 정보
 - [ ] IoC/DI (제어의 역전/의존성 주입)
 - [ ] AOP (관점 지향 프로그래밍)
 - [ ] PSA (포터블 서비스 추상화)
-- [학습 노트](./ch07/README.md)
