@@ -4,8 +4,8 @@
 
 public - 모두가 접근 가능<br>
   &nbsp;&nbsp;&nbsp;protected - 상속/같은 패키지 내의 클래스에서 접근 가능<br>
-    &nbsp;&nbsp;&nbsp;[default] - 같은 패키지 내의 클래스에서 접근 가능<br>
-      &nbsp;&nbsp;&nbsp;private - 본인만 접근 가능
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[default] - 같은 패키지 내의 클래스에서 접근 가능<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private - 본인만 접근 가능
 
 - 상속을 받지 않았다면 객체 멤버는 객체를 생성한 후 객체 참조 변수를 이용해 접근해야 한다.
 - 정적 멤버는 클래스명.정적멤버 형식으로 접근하는 것을 권장한다.
