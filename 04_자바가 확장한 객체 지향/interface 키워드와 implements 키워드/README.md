@@ -27,8 +27,8 @@ public class Main {
 ```
 
 ### 특징요약
-> 인터페이스는 모든 메서드가 public abstract
-> 인터페이스의 필드는 자동으로 public static final
-> 인터페이스는 다중 구현 가능, 클래스는 단일 상속
-> implements는 여러 인터페이스를 콤마(,)로 구분해 구현 가능
+- 인터페이스는 모든 메서드가 public abstract
+- 인터페이스의 필드는 자동으로 public static final
+- 인터페이스는 다중 구현 가능, 클래스는 단일 상속
+- implements는 여러 인터페이스를 콤마(,)로 구분해 구현 가능
 
