@@ -26,6 +26,8 @@ public class Driver {
 
     System.out.println(참새객체 instanceof 날수있는);
     System.out.println(참새객체 instanceof 참새);
+  }
+}
 ```
 > 실행 결과는 모두 true를 반환한다.
 
