@@ -17,16 +17,16 @@ public final class 고양이 { }
 
 ```java
 public class 동물 {
-&nbsp;&nbsp;&nbsp; final void 숨쉬다() {
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("호흡 중");
-&nbsp;&nbsp;&nbsp;}
+  final void 숨쉬다() {
+    System.out.println("호흡 중");
+    }
 }
 
 class 포유류 extends 동물 {
 // 에러 발생: Cannot override the final method from 동물
 void 숨쉬다() {
-&nbsp;&nbsp;&nbsp;System.out.println("호흡 중");
-&nbsp;&nbsp;&nbsp;}
+  System.out.println("호흡 중");
+    }
 }
 //상송을 허락하지 않겠다는 의미
 ```
