@@ -23,7 +23,15 @@
 ```
 - 하위 클래스의 인스턴스는 상위형 객체 참조 변수에 대입해 상위 클래스의 인스턴스 역할을 하는데 문제가 없어햐 한다.
 
-
+<p align="center">
+<img src="https://github.com/kmc77/java-oop-to-spring/raw/main/05_%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%205%EC%9B%90%EC%B9%99%20-%20SOLID/SRP%20-%20%EB%8B%A8%EC%9D%BC%20%EC%B1%85%EC%9E%84%20%EC%9B%90%EC%B9%99/IMG_4801.jpg" width="600"/>
+  <sub><i>잘못된 예❌</i></sub>
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/kmc77/java-oop-to-spring/blob/main/05_%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%205%EC%9B%90%EC%B9%99%20-%20SOLID/SRP%20-%20%EB%8B%A8%EC%9D%BC%20%EC%B1%85%EC%9E%84%20%EC%9B%90%EC%B9%99/IMG_4802.jpg" width="600"/>
+  <sub><i>올바른 예⭕️</i></sub>
+</p>
 
 
 *계층도/조직도인 경우 딸이 아버지, 할아버지 역할을 하는 것은 논리에 맞지 않다.*
