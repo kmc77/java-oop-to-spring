@@ -34,6 +34,6 @@ class PrinterAdapter implements Printer {
 ```
 
 ### 스프링 프레임워크 적용 예시
-- HandlerAdapter (Spring MVC 내부 구성 요소)
-    다양한 형태의 컨트롤러(@Controller, HttpRequestHandler, @RestController)를 공통된 방식으로 실행
+- HandlerAdapter (Spring MVC 내부 구성 요소)<br>
+    다양한 형태의 컨트롤러(@Controller, HttpRequestHandler, @RestController)를 공통된 방식으로 실행<br>
     DispatcherServlet → HandlerAdapter → 실제 핸들러 호출
